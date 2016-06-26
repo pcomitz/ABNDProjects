@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         int solution = optimalHours - actualHours;
         display(solution);
 
+        
 
     }
 
